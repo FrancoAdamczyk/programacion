@@ -1,0 +1,7 @@
+C:\Users\Estudiante\programacion\ejeventos\ejeventos\obj\Debug\ejeventos.csprojAssemblyReference.cache
+C:\Users\Estudiante\programacion\ejeventos\ejeventos\obj\Debug\ejeventos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\programacion\ejeventos\ejeventos\bin\Debug\ejeventos.exe.config
+C:\Users\Estudiante\programacion\ejeventos\ejeventos\bin\Debug\ejeventos.exe
+C:\Users\Estudiante\programacion\ejeventos\ejeventos\bin\Debug\ejeventos.pdb
+C:\Users\Estudiante\programacion\ejeventos\ejeventos\obj\Debug\ejeventos.exe
+C:\Users\Estudiante\programacion\ejeventos\ejeventos\obj\Debug\ejeventos.pdb
