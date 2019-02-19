@@ -1,0 +1,7 @@
+c:\users\estudiante\source\repos\metodoanonimo\metodoanonimo\bin\Debug\metodoanonimo.exe.config
+c:\users\estudiante\source\repos\metodoanonimo\metodoanonimo\bin\Debug\metodoanonimo.exe
+c:\users\estudiante\source\repos\metodoanonimo\metodoanonimo\bin\Debug\metodoanonimo.pdb
+c:\users\estudiante\source\repos\metodoanonimo\metodoanonimo\obj\Debug\metodoanonimo.csprojAssemblyReference.cache
+c:\users\estudiante\source\repos\metodoanonimo\metodoanonimo\obj\Debug\metodoanonimo.csproj.CoreCompileInputs.cache
+c:\users\estudiante\source\repos\metodoanonimo\metodoanonimo\obj\Debug\metodoanonimo.exe
+c:\users\estudiante\source\repos\metodoanonimo\metodoanonimo\obj\Debug\metodoanonimo.pdb

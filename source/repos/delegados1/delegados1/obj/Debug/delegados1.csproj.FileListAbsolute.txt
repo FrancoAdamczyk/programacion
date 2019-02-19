@@ -1,0 +1,7 @@
+c:\users\estudiante\source\repos\delegados1\delegados1\bin\Debug\delegados1.exe.config
+c:\users\estudiante\source\repos\delegados1\delegados1\bin\Debug\delegados1.exe
+c:\users\estudiante\source\repos\delegados1\delegados1\bin\Debug\delegados1.pdb
+c:\users\estudiante\source\repos\delegados1\delegados1\obj\Debug\delegados1.csprojAssemblyReference.cache
+c:\users\estudiante\source\repos\delegados1\delegados1\obj\Debug\delegados1.csproj.CoreCompileInputs.cache
+c:\users\estudiante\source\repos\delegados1\delegados1\obj\Debug\delegados1.exe
+c:\users\estudiante\source\repos\delegados1\delegados1\obj\Debug\delegados1.pdb

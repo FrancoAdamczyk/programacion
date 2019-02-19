@@ -50,7 +50,8 @@ namespace ejeventos
             {
                 cuandomultiplodetres(n);
             }
-            return x;
+            return x;   
         }
     }
 }
+                
