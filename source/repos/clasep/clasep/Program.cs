@@ -54,16 +54,48 @@ namespace clasep
             var consulta6 = from alm in personas         
                             group alm by alm.edad into edad
                             select new { Edad = edad.Key, Cantidad = edad.Count() };
-            foreach (var grupoedades in consulta6 )
+            foreach (var grupoedad in consulta6 )
             {
-                Console.WriteLine("{0} {1}", grupoedades.Edad, grupoedades.Cantidad);
+                Console.WriteLine("{0} {1}", grupoedad.Edad, grupoedad.Cantidad);
             }
             Console.WriteLine("-------------------------------------");
 
             var consulta7 = from alm in personas
                             orderby alm.apellidos descending
                             select alm;
+            foreach (var grupoapp in consulta7 )
+            {
+                Console.WriteLine("{0} {1}" , grupoapp.apellidos , grupoapp.nombre);
+            }
+            Console.WriteLine("-------------------------------------");
 
+            var consulta8 = from alm in personas
+                            where alm.edad == 18 && alm.sexo=="masculino"
+                            orderby alm.edad , alm.sexo
+                            select new { edad = alm.edad, sexo = alm.sexo };
+            foreach (var gruposexo in consulta8)
+            {
+                Console.WriteLine("{0} {1}", gruposexo.edad, gruposexo.sexo);
+            }
+           
+            Console.WriteLine("-------------------------------------");
+            var consulta9 = from alm in personas
+                            where  alm.sexo == "masculino"
+                            orderby alm.sexo
+                            select new {  nombre = alm.nombre ,sexo = alm.sexo };
+            foreach (var gruposexo in consulta9)
+            {
+                Console.WriteLine("{0} {1}", gruposexo.nombre , gruposexo.sexo);
+            }
+            Console.WriteLine("-------------------------------------");
+            var consulta10 = from alm in personas
+                            group alm by alm.sexo into sexos
+                            select new { Sexo = sexos.Key, Promedio = sexos.Average(pe => pe.edad) };
+            foreach (var grupose in consulta10)
+            {
+                Console.WriteLine("{0} {1}", grupose.Sexo , grupose.Promedio);
+
+            }
 
 
             Console.ReadKey();

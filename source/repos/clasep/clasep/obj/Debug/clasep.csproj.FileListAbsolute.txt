@@ -5,3 +5,10 @@ C:\Users\Estudiante\source\repos\clasep\clasep\obj\Debug\clasep.csprojAssemblyRe
 C:\Users\Estudiante\source\repos\clasep\clasep\obj\Debug\clasep.csproj.CoreCompileInputs.cache
 C:\Users\Estudiante\source\repos\clasep\clasep\obj\Debug\clasep.exe
 C:\Users\Estudiante\source\repos\clasep\clasep\obj\Debug\clasep.pdb
+C:\Users\Estudiante\programacion\source\repos\clasep\clasep\bin\Debug\clasep.exe.config
+C:\Users\Estudiante\programacion\source\repos\clasep\clasep\bin\Debug\clasep.exe
+C:\Users\Estudiante\programacion\source\repos\clasep\clasep\bin\Debug\clasep.pdb
+C:\Users\Estudiante\programacion\source\repos\clasep\clasep\obj\Debug\clasep.csprojAssemblyReference.cache
+C:\Users\Estudiante\programacion\source\repos\clasep\clasep\obj\Debug\clasep.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\programacion\source\repos\clasep\clasep\obj\Debug\clasep.exe
+C:\Users\Estudiante\programacion\source\repos\clasep\clasep\obj\Debug\clasep.pdb
