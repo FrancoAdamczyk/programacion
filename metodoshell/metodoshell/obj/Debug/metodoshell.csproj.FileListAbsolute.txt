@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\metodoshell\metodoshell\bin\Debug\metodoshell.exe.config
+C:\Users\Estudiante\source\repos\metodoshell\metodoshell\bin\Debug\metodoshell.exe
+C:\Users\Estudiante\source\repos\metodoshell\metodoshell\bin\Debug\metodoshell.pdb
+C:\Users\Estudiante\source\repos\metodoshell\metodoshell\obj\Debug\metodoshell.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\metodoshell\metodoshell\obj\Debug\metodoshell.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\metodoshell\metodoshell\obj\Debug\metodoshell.exe
+C:\Users\Estudiante\source\repos\metodoshell\metodoshell\obj\Debug\metodoshell.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodoshell", "metodoshell\metodoshell.csproj", "{A0F21A40-F9EA-461F-81F2-9ED5AB500877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F21A40-F9EA-461F-81F2-9ED5AB500877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F21A40-F9EA-461F-81F2-9ED5AB500877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F21A40-F9EA-461F-81F2-9ED5AB500877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F21A40-F9EA-461F-81F2-9ED5AB500877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56C77D54-482B-49E9-9C70-D1592AAC1D52}
+	EndGlobalSection
+EndGlobal
