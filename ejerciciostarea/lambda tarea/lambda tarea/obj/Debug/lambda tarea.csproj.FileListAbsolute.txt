@@ -1,0 +1,6 @@
+D:\3er semestre\Programacion3\lambda tarea\lambda tarea\bin\Debug\lambda tarea.exe.config
+D:\3er semestre\Programacion3\lambda tarea\lambda tarea\bin\Debug\lambda tarea.exe
+D:\3er semestre\Programacion3\lambda tarea\lambda tarea\bin\Debug\lambda tarea.pdb
+D:\3er semestre\Programacion3\lambda tarea\lambda tarea\obj\Debug\lambda tarea.csproj.CoreCompileInputs.cache
+D:\3er semestre\Programacion3\lambda tarea\lambda tarea\obj\Debug\lambda tarea.exe
+D:\3er semestre\Programacion3\lambda tarea\lambda tarea\obj\Debug\lambda tarea.pdb

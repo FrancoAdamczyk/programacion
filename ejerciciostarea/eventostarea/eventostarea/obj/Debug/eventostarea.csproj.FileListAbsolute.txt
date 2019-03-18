@@ -1,0 +1,7 @@
+D:\3er semestre\Programacion3\eventostarea\eventostarea\obj\Debug\eventostarea.csprojResolveAssemblyReference.cache
+D:\3er semestre\Programacion3\eventostarea\eventostarea\obj\Debug\eventostarea.csproj.CoreCompileInputs.cache
+D:\3er semestre\Programacion3\eventostarea\eventostarea\bin\Debug\eventostarea.exe.config
+D:\3er semestre\Programacion3\eventostarea\eventostarea\bin\Debug\eventostarea.exe
+D:\3er semestre\Programacion3\eventostarea\eventostarea\bin\Debug\eventostarea.pdb
+D:\3er semestre\Programacion3\eventostarea\eventostarea\obj\Debug\eventostarea.exe
+D:\3er semestre\Programacion3\eventostarea\eventostarea\obj\Debug\eventostarea.pdb

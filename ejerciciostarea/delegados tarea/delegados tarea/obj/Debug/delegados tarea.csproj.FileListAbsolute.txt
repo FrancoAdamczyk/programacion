@@ -1,0 +1,7 @@
+c:\users\windows 10\source\repos\delegados tarea\delegados tarea\bin\Debug\delegados tarea.exe.config
+c:\users\windows 10\source\repos\delegados tarea\delegados tarea\bin\Debug\delegados tarea.exe
+c:\users\windows 10\source\repos\delegados tarea\delegados tarea\bin\Debug\delegados tarea.pdb
+c:\users\windows 10\source\repos\delegados tarea\delegados tarea\obj\Debug\delegados tarea.csprojResolveAssemblyReference.cache
+c:\users\windows 10\source\repos\delegados tarea\delegados tarea\obj\Debug\delegados tarea.csproj.CoreCompileInputs.cache
+c:\users\windows 10\source\repos\delegados tarea\delegados tarea\obj\Debug\delegados tarea.exe
+c:\users\windows 10\source\repos\delegados tarea\delegados tarea\obj\Debug\delegados tarea.pdb

@@ -1,0 +1,7 @@
+c:\users\windows 10\source\repos\listatarea\listatarea\obj\Debug\listatarea.csproj.CoreCompileInputs.cache
+c:\users\windows 10\source\repos\listatarea\listatarea\bin\Debug\listatarea.exe.config
+c:\users\windows 10\source\repos\listatarea\listatarea\bin\Debug\listatarea.exe
+c:\users\windows 10\source\repos\listatarea\listatarea\bin\Debug\listatarea.pdb
+c:\users\windows 10\source\repos\listatarea\listatarea\obj\Debug\listatarea.exe
+c:\users\windows 10\source\repos\listatarea\listatarea\obj\Debug\listatarea.pdb
+c:\users\windows 10\source\repos\listatarea\listatarea\obj\Debug\listatarea.csprojResolveAssemblyReference.cache

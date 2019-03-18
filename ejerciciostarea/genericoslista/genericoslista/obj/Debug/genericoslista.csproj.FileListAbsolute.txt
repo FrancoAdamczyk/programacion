@@ -1,0 +1,7 @@
+D:\3er semestre\Programacion3\genericoslista\genericoslista\bin\Debug\genericoslista.exe.config
+D:\3er semestre\Programacion3\genericoslista\genericoslista\bin\Debug\genericoslista.exe
+D:\3er semestre\Programacion3\genericoslista\genericoslista\bin\Debug\genericoslista.pdb
+D:\3er semestre\Programacion3\genericoslista\genericoslista\obj\Debug\genericoslista.csprojResolveAssemblyReference.cache
+D:\3er semestre\Programacion3\genericoslista\genericoslista\obj\Debug\genericoslista.csproj.CoreCompileInputs.cache
+D:\3er semestre\Programacion3\genericoslista\genericoslista\obj\Debug\genericoslista.exe
+D:\3er semestre\Programacion3\genericoslista\genericoslista\obj\Debug\genericoslista.pdb
