@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\parcialej1\parcialej1\bin\Debug\parcialej1.exe.config
+C:\Users\Estudiante\source\repos\parcialej1\parcialej1\bin\Debug\parcialej1.exe
+C:\Users\Estudiante\source\repos\parcialej1\parcialej1\bin\Debug\parcialej1.pdb
+C:\Users\Estudiante\source\repos\parcialej1\parcialej1\obj\Debug\parcialej1.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\parcialej1\parcialej1\obj\Debug\parcialej1.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\parcialej1\parcialej1\obj\Debug\parcialej1.exe
+C:\Users\Estudiante\source\repos\parcialej1\parcialej1\obj\Debug\parcialej1.pdb
