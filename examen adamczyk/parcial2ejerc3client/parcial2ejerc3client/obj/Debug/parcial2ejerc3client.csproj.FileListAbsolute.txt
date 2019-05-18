@@ -1,0 +1,10 @@
+C:\Users\Estudiante\source\repos\parcial2ejerc3client\parcial2ejerc3client\bin\Debug\parcial2ejerc3client.exe.config
+C:\Users\Estudiante\source\repos\parcial2ejerc3client\parcial2ejerc3client\bin\Debug\parcial2ejerc3client.exe
+C:\Users\Estudiante\source\repos\parcial2ejerc3client\parcial2ejerc3client\bin\Debug\parcial2ejerc3client.pdb
+C:\Users\Estudiante\source\repos\parcial2ejerc3client\parcial2ejerc3client\obj\Debug\parcial2ejerc3client.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\parcial2ejerc3client\parcial2ejerc3client\obj\Debug\parcial2ejerc3client.Form1.resources
+C:\Users\Estudiante\source\repos\parcial2ejerc3client\parcial2ejerc3client\obj\Debug\parcial2ejerc3client.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\parcial2ejerc3client\parcial2ejerc3client\obj\Debug\parcial2ejerc3client.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\parcial2ejerc3client\parcial2ejerc3client\obj\Debug\parcial2ejerc3client.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\parcial2ejerc3client\parcial2ejerc3client\obj\Debug\parcial2ejerc3client.exe
+C:\Users\Estudiante\source\repos\parcial2ejerc3client\parcial2ejerc3client\obj\Debug\parcial2ejerc3client.pdb

@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\parcial2ejerc3serv\parcial2ejerc3serv\bin\Debug\parcial2ejerc3serv.exe.config
+C:\Users\Estudiante\source\repos\parcial2ejerc3serv\parcial2ejerc3serv\bin\Debug\parcial2ejerc3serv.exe
+C:\Users\Estudiante\source\repos\parcial2ejerc3serv\parcial2ejerc3serv\bin\Debug\parcial2ejerc3serv.pdb
+C:\Users\Estudiante\source\repos\parcial2ejerc3serv\parcial2ejerc3serv\obj\Debug\parcial2ejerc3serv.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\parcial2ejerc3serv\parcial2ejerc3serv\obj\Debug\parcial2ejerc3serv.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\parcial2ejerc3serv\parcial2ejerc3serv\obj\Debug\parcial2ejerc3serv.exe
+C:\Users\Estudiante\source\repos\parcial2ejerc3serv\parcial2ejerc3serv\obj\Debug\parcial2ejerc3serv.pdb
