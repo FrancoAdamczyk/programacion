@@ -1,0 +1,20 @@
+C:\Users\Estudiante\source\repos\parcial2ejerc1\parcial2ejerc1\bin\Debug\parcial2ejerc1.exe.config
+C:\Users\Estudiante\source\repos\parcial2ejerc1\parcial2ejerc1\bin\Debug\parcial2ejerc1.exe
+C:\Users\Estudiante\source\repos\parcial2ejerc1\parcial2ejerc1\bin\Debug\parcial2ejerc1.pdb
+C:\Users\Estudiante\source\repos\parcial2ejerc1\parcial2ejerc1\obj\Debug\parcial2ejerc1.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\parcial2ejerc1\parcial2ejerc1\obj\Debug\parcial2ejerc1.Form1.resources
+C:\Users\Estudiante\source\repos\parcial2ejerc1\parcial2ejerc1\obj\Debug\parcial2ejerc1.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\parcial2ejerc1\parcial2ejerc1\obj\Debug\parcial2ejerc1.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\parcial2ejerc1\parcial2ejerc1\obj\Debug\parcial2ejerc1.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\parcial2ejerc1\parcial2ejerc1\obj\Debug\parcial2ejerc1.exe
+C:\Users\Estudiante\source\repos\parcial2ejerc1\parcial2ejerc1\obj\Debug\parcial2ejerc1.pdb
+C:\Users\Estudiante\programacion\examen adamczyk\parcial2ejerc1\parcial2ejerc1\bin\Debug\parcial2ejerc1.exe.config
+C:\Users\Estudiante\programacion\examen adamczyk\parcial2ejerc1\parcial2ejerc1\bin\Debug\parcial2ejerc1.exe
+C:\Users\Estudiante\programacion\examen adamczyk\parcial2ejerc1\parcial2ejerc1\bin\Debug\parcial2ejerc1.pdb
+C:\Users\Estudiante\programacion\examen adamczyk\parcial2ejerc1\parcial2ejerc1\obj\Debug\parcial2ejerc1.csprojAssemblyReference.cache
+C:\Users\Estudiante\programacion\examen adamczyk\parcial2ejerc1\parcial2ejerc1\obj\Debug\parcial2ejerc1.Form1.resources
+C:\Users\Estudiante\programacion\examen adamczyk\parcial2ejerc1\parcial2ejerc1\obj\Debug\parcial2ejerc1.Properties.Resources.resources
+C:\Users\Estudiante\programacion\examen adamczyk\parcial2ejerc1\parcial2ejerc1\obj\Debug\parcial2ejerc1.csproj.GenerateResource.cache
+C:\Users\Estudiante\programacion\examen adamczyk\parcial2ejerc1\parcial2ejerc1\obj\Debug\parcial2ejerc1.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\programacion\examen adamczyk\parcial2ejerc1\parcial2ejerc1\obj\Debug\parcial2ejerc1.exe
+C:\Users\Estudiante\programacion\examen adamczyk\parcial2ejerc1\parcial2ejerc1\obj\Debug\parcial2ejerc1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\parcial2ejrec2\parcial2ejrec2\bin\Debug\parcial2ejrec2.exe.config
+C:\Users\Estudiante\source\repos\parcial2ejrec2\parcial2ejrec2\bin\Debug\parcial2ejrec2.exe
+C:\Users\Estudiante\source\repos\parcial2ejrec2\parcial2ejrec2\bin\Debug\parcial2ejrec2.pdb
+C:\Users\Estudiante\source\repos\parcial2ejrec2\parcial2ejrec2\obj\Debug\parcial2ejrec2.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\parcial2ejrec2\parcial2ejrec2\obj\Debug\parcial2ejrec2.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\parcial2ejrec2\parcial2ejrec2\obj\Debug\parcial2ejrec2.exe
+C:\Users\Estudiante\source\repos\parcial2ejrec2\parcial2ejrec2\obj\Debug\parcial2ejrec2.pdb

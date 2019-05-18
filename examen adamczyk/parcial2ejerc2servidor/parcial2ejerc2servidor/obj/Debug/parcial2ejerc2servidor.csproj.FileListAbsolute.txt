@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\parcial2ejerc2servidor\parcial2ejerc2servidor\bin\Debug\parcial2ejerc2servidor.exe.config
+C:\Users\Estudiante\source\repos\parcial2ejerc2servidor\parcial2ejerc2servidor\bin\Debug\parcial2ejerc2servidor.exe
+C:\Users\Estudiante\source\repos\parcial2ejerc2servidor\parcial2ejerc2servidor\bin\Debug\parcial2ejerc2servidor.pdb
+C:\Users\Estudiante\source\repos\parcial2ejerc2servidor\parcial2ejerc2servidor\obj\Debug\parcial2ejerc2servidor.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\parcial2ejerc2servidor\parcial2ejerc2servidor\obj\Debug\parcial2ejerc2servidor.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\parcial2ejerc2servidor\parcial2ejerc2servidor\obj\Debug\parcial2ejerc2servidor.exe
+C:\Users\Estudiante\source\repos\parcial2ejerc2servidor\parcial2ejerc2servidor\obj\Debug\parcial2ejerc2servidor.pdb
