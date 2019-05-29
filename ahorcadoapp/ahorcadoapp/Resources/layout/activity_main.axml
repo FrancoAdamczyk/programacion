@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<TextView
+		android:text="Introduzca la letra:"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/textView1" />
+	<EditText
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/textView1"
+		android:id="@+id/txtletra" />
+	<Button
+		android:text="Button"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/txtletra"
+		android:id="@+id/btnletra" />
+	<TextView
+		android:text="-"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/btnletra"
+		android:id="@+id/lblres" />
+	<TextView
+		android:text="Introduzca la palabra:"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/lblres"
+		android:id="@+id/textView2" />
+	<EditText
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/textView2"
+		android:id="@+id/txtpalabra" />
+	<Button
+		android:text="Button"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/txtpalabra"
+		android:id="@+id/btnpal" />
+	<ImageView
+		android:src="@android:drawable/ic_menu_gallery"
+		android:layout_width="222.5dp"
+		android:layout_height="159.0dp"
+		android:layout_below="@id/btnpal"
+		android:id="@+id/image" />
+</RelativeLayout>
