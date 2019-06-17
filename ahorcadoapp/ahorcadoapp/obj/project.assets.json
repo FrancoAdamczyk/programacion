@@ -480,11 +480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Estudiante\\source\\repos\\ahorcadoapp\\ahorcadoapp\\ahorcadoapp.csproj",
+      "projectUniqueName": "C:\\Users\\Estudiante\\programacion\\ahorcadoapp\\ahorcadoapp\\ahorcadoapp.csproj",
       "projectName": "ahorcadoapp",
-      "projectPath": "C:\\Users\\Estudiante\\source\\repos\\ahorcadoapp\\ahorcadoapp\\ahorcadoapp.csproj",
+      "projectPath": "C:\\Users\\Estudiante\\programacion\\ahorcadoapp\\ahorcadoapp\\ahorcadoapp.csproj",
       "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Estudiante\\source\\repos\\ahorcadoapp\\ahorcadoapp\\obj\\",
+      "outputPath": "C:\\Users\\Estudiante\\programacion\\ahorcadoapp\\ahorcadoapp\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

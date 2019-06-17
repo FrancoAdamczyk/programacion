@@ -1,0 +1,10 @@
+C:\Users\Estudiante\source\repos\examenfinalej1\examenfinalej1\bin\Debug\examenfinalej1.exe.config
+C:\Users\Estudiante\source\repos\examenfinalej1\examenfinalej1\bin\Debug\examenfinalej1.exe
+C:\Users\Estudiante\source\repos\examenfinalej1\examenfinalej1\bin\Debug\examenfinalej1.pdb
+C:\Users\Estudiante\source\repos\examenfinalej1\examenfinalej1\obj\Debug\examenfinalej1.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\examenfinalej1\examenfinalej1\obj\Debug\examenfinalej1.Form1.resources
+C:\Users\Estudiante\source\repos\examenfinalej1\examenfinalej1\obj\Debug\examenfinalej1.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\examenfinalej1\examenfinalej1\obj\Debug\examenfinalej1.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\examenfinalej1\examenfinalej1\obj\Debug\examenfinalej1.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\examenfinalej1\examenfinalej1\obj\Debug\examenfinalej1.exe
+C:\Users\Estudiante\source\repos\examenfinalej1\examenfinalej1\obj\Debug\examenfinalej1.pdb
